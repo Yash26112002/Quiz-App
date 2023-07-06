@@ -1,4 +1,4 @@
-<img width="960" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/d62ae224-ec7b-4e78-b6b9-59dc4be7cf11">Preview of the site:
+Preview of the site:
 
 <img width="777" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/489ed062-eaf7-44bc-a041-53f0333320cc">
 <img width="960" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/24f60596-4eb6-4181-abf0-5e34908f8371">
