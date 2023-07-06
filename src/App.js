@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import React, { useState,useEffect,useMemo } from 'react';
 import Structure from "./components/Structure";
 import Timer from "./components/Timer";
