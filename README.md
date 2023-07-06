@@ -1,3 +1,16 @@
+<img width="960" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/d62ae224-ec7b-4e78-b6b9-59dc4be7cf11">Preview of the site:
+
+<img width="777" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/489ed062-eaf7-44bc-a041-53f0333320cc">
+<img width="960" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/24f60596-4eb6-4181-abf0-5e34908f8371">
+<img width="960" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/3850ab50-31cf-411c-908c-cbf603abc762">
+<img width="957" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/71f9d2e2-844f-4c4a-9f92-e4e4f84db01b">
+<img width="960" alt="image" src="https://github.com/Yash26112002/Quiz-App/assets/77532366/a6979785-28b1-4f70-a03c-1801738ab0ef">
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
